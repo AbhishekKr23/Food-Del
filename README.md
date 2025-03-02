@@ -1,58 +1,41 @@
-Food Delivery Website 🍕🚚
+# Food Delivery Website 🍕🍔
 
-A Full Stack Food Delivery Website built using MERN Stack.
+A full-stack food delivery website built using **MERN Stack** that allows users to browse food items, place orders, and make secure online payments.
 
-🔑 Tech Stack
+## Tech Stack
+- React.js ⚛️
+- Node.js 🔥
+- Express.js 🚀
+- MongoDB 🍃
+- Stripe 💳
 
-React.js
+## Features
+- User Authentication (Login & Signup)   🔐
+- Online Payment Gateway 💳
+- Food Item Listings  
+- Cart Management
+- Payment Gateway using Stripe 
+- Order History 
+- Admin Panel  
+- Responsive UI 📱💻
 
-Node.js
 
-Express.js
+## 🚀 Installation Steps
+1. Clone the project:
+git clone https://github.com/abhishek.kr23/Food-Delivery.git
 
-MongoDB
 
-Stripe Payment Gateway
+2. Go to the project directory:
+cd Food-Delivery
 
-🎯 Features
-
-User Authentication (Login & Signup)
-
-Food Item Listings
-
-Cart Management
-
-Payment Gateway using Stripe
-
-Order History
-
-Admin Panel
-
-🛠️ Installation Steps
-
-Clone the repository:
-
-git clone https://github.com/abhishek.kr23/Food-Del.git
-cd Food-Del
-
-Install Dependencies:
-
+3. Install dependencies:
 npm install
 
-Run the App:
 
+4. Start the server:
 npm start
 
-Visit:
 
-http://localhost:3000
-
-📸 Screenshots
-
-
-
-🌐 Live Demo
-
-Live Website
-
+## Live Demo
+[Live Website](https://your-live-link.com)
 
